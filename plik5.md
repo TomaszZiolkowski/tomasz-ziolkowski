@@ -1,2 +1,3 @@
 Tutaj będzie stworzenie tag:3.0
 ...
+Dodanie kolejnych linijek tekstu
